@@ -1,16 +1,5 @@
-# kuytrip
+# KuyTrip - Convert UI Design to Flutter
 
-A new Flutter project.
+Flutter 2.10.3
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![YouTube Thumbnail Convert UI Design to Flutter](https://user-images.githubusercontent.com/59822692/158064457-d40cbbc9-e878-4301-b48e-cd8cb51797bf.png)
